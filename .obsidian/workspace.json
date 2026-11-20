@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "8434214d311cfc72",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cac7455f69fea76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db6de2026b1d111c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OPAL/OPAL-PROMPTS/CONTRACT-MIGRATION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONTRACT-MIGRATION"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e09c3e72b7628fee",
+    "type": "split",
+    "children": [
+      {
+        "id": "50e22cac90c316b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d98f1bd5cb5b613",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7638371a256d4aa8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c5115846900da02b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd8fba790197ea55",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fbc45e79c80f05d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caa3f9164b10eb37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OPAL/OPAL-PROMPTS/API-IMPLEMENTATION.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f15d2e42b7751c8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OPAL/OPAL-PROMPTS/API-IMPLEMENTATION.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e6aa2ce3e400e5e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ef155c0e2754408",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "451db25bb7ce7732",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OPAL/OPAL-PROMPTS/API-IMPLEMENTATION.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "db6de2026b1d111c",
+  "lastOpenFiles": [
+    "OPAL/OPAL-PROMPTS/OPAL-CONFIG.md",
+    "OPAL/OPAL-PROMPTS/CONTRACT-MIGRATION.md",
+    "OPAL-COMMON-CONFIG.md",
+    "OPAL/OPAL-PROMPTS/OPAL-TREE.md",
+    "TREE.md",
+    "OPAL/OPAL-PROMPTS/REVIEW OPAL-API.md",
+    "OPAL/OPAL-PROMPTS/API-COOKBOOK.md",
+    "file:C:/Users/patri/Downloads/opal-kernel-persona-operations-prompt.md",
+    "file:C:/Users/patri/Downloads/opal-namespaced-profile-contract-prompt.md",
+    "file:C:/Users/patri/Downloads/opal-module-openapi-migration-prompt.md",
+    "OPAL/OPAL-PROMPTS/CONTRACT-GREEN-IMPL.md",
+    "OPAL-ALEXA.md",
+    "OPAL/OPAL-PROMPTS/API-MODULE-COOKBOOK.md",
+    "file:C:/Users/patri/Downloads/opal-api-unified-config-contract-prompt.md",
+    "OPAL/OPAL-PROMPTS/REVIEW-OPAL-API 2.md",
+    "OPAL/OPAL-PROMPTS/MISC.md",
+    "OPAL/OPAL-API/OPAL_DEVICES_CLI.md",
+    "OPAL/OPAL-API/OPAL_VISION_MERGE_PROMPTS.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "file:C:/Users/patri/Downloads/opal-think-implementation-prompt.md",
+    "file:C:/Users/patri/Downloads/opal-look-implementation-prompt.md",
+    "file:C:/Users/patri/Downloads/opal-say-implementation-prompt.md",
+    "file:C:/Users/patri/Downloads/opal-listen-implementation-prompt.md",
+    "file:C:/Users/patri/Downloads/opal-event-implementation-prompt.md",
+    "OPAL/UNIFIED_VISION/INTEGRATION_GAPS.md",
+    "OPAL/OPAL-PROMPTS/OPAL-README.md",
+    "OPAL - Open Pal.md",
+    "OPAL/OPAL-PROMPTS",
+    "OPAL/OPAL-API/1.7.1/opal_think 1.yaml",
+    "OPAL/OPAL-API/1.7.1/opal_say 1.yaml",
+    "OPAL/OPAL-API/1.7.1/opal_look 1.yaml",
+    "OPAL/OPAL-API/1.7.1/opal_listen 1.yaml",
+    "OPAL/OPAL-API/1.7.1/opal_event 1.yaml",
+    "OPAL/OPAL-API/1.7.1/opal_listen.yaml",
+    "OPAL/OPAL-API/1.7.1/opal_event.yaml",
+    "OPAL/OPAL-API/1.7.1/shared/opal_kernel.yaml"
+  ]
+}
