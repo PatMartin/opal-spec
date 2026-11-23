@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2cac7455f69fea76",
+        "id": "8985c380eed62b49",
         "type": "tabs",
         "children": [
           {
-            "id": "db6de2026b1d111c",
+            "id": "51f37a55451df35c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OPAL/OPAL-PROMPTS/CONTRACT-MIGRATION.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CONTRACT-MIGRATION"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -189,44 +185,44 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "db6de2026b1d111c",
+  "active": "51f37a55451df35c",
   "lastOpenFiles": [
-    "OPAL/OPAL-PROMPTS/OPAL-CONFIG.md",
-    "OPAL/OPAL-PROMPTS/CONTRACT-MIGRATION.md",
-    "OPAL-COMMON-CONFIG.md",
-    "OPAL/OPAL-PROMPTS/OPAL-TREE.md",
-    "TREE.md",
-    "OPAL/OPAL-PROMPTS/REVIEW OPAL-API.md",
-    "OPAL/OPAL-PROMPTS/API-COOKBOOK.md",
-    "file:C:/Users/patri/Downloads/opal-kernel-persona-operations-prompt.md",
-    "file:C:/Users/patri/Downloads/opal-namespaced-profile-contract-prompt.md",
-    "file:C:/Users/patri/Downloads/opal-module-openapi-migration-prompt.md",
-    "OPAL/OPAL-PROMPTS/CONTRACT-GREEN-IMPL.md",
-    "OPAL-ALEXA.md",
-    "OPAL/OPAL-PROMPTS/API-MODULE-COOKBOOK.md",
-    "file:C:/Users/patri/Downloads/opal-api-unified-config-contract-prompt.md",
-    "OPAL/OPAL-PROMPTS/REVIEW-OPAL-API 2.md",
+    "OPAL/OPAL-PROMPTS/AGENTS/AGENTS.MD - OPAL-LOOK.md",
+    "file:C:/Users/patri/Downloads/AGENTS (4).md",
+    "OPAL/OPAL-PROMPTS/AGENTS/AGENTS.MD - OPAL-LOOK-YOLO.md",
+    "file:C:/Users/patri/Downloads/AGENTS (3).md",
+    "OPAL/OPAL-PROMPTS/API/CONTRACT-MIGRATION.md",
+    "OPAL/OPAL-PROMPTS/AGENTS/AGENTS.MD - OPAL-THINK.md",
+    "file:C:/Users/patri/Downloads/AGENTS (2).md",
+    "OPAL/OPAL-PROMPTS/MODS/ADD-STEPS.md",
     "OPAL/OPAL-PROMPTS/MISC.md",
-    "OPAL/OPAL-API/OPAL_DEVICES_CLI.md",
-    "OPAL/OPAL-API/OPAL_VISION_MERGE_PROMPTS.md",
+    "OPAL/OPAL-PROMPTS/MODS",
+    "OPAL/OPAL-PROMPTS/AGENTS/AGENTS.MD - OPAL-SAY.md",
+    "file:C:/Users/patri/Downloads/AGENTS (1).md",
+    "OPAL/UNIFIED_VISION/VISION_CLI.md",
+    "OPAL/UNIFIED_VISION/VISION_ARCHITECTURE.md",
+    "OPAL/OPAL-PROMPTS/API/CONTRACT-GREEN-IMPL.md",
+    "OPAL/UNIFIED_VISION/VALIDATION_REPORT.md",
+    "OPAL/UNIFIED_VISION/INTEGRATION_GAPS.md",
+    "OPAL/OPAL-PROMPTS/AGENTS/AGENTS.MD - OPAL-API.md",
+    "OPAL/OPAL-PROMPTS/API",
+    "OPAL/OPAL-PROMPTS/REVIEW/REVIEW OPAL-API.md",
+    "OPAL/OPAL-PROMPTS/AGENTS",
+    "OPAL/OPAL-PROMPTS/REVIEW/REVIEW-OPAL-API 2.md",
+    "OPAL/OPAL-PROMPTS/DOCS/OPAL-README.md",
+    "OPAL/OPAL-PROMPTS/REVIEW",
+    "OPAL/OPAL-PROMPTS/DOCS/API-COOKBOOK.md",
+    "OPAL/OPAL-PROMPTS/DOCS",
+    "OPAL/OPAL-PROMPTS/AGENTS/AGENTS.MD - OPAL-LISTEN.md",
+    "file:C:/Users/patri/Downloads/AGENTS.MD - OPAL-LISTEN.md",
+    "OPAL/OPAL-PROMPTS/AGENTS/AGENTS.MD - OPAL-BUS.md",
+    "file:C:/Users/patri/Downloads/AGENTS-opal-bus.md",
+    "file:C:/Users/patri/Downloads/AGENTS.md",
     "Untitled.canvas",
     "Untitled.base",
-    "file:C:/Users/patri/Downloads/opal-think-implementation-prompt.md",
-    "file:C:/Users/patri/Downloads/opal-look-implementation-prompt.md",
-    "file:C:/Users/patri/Downloads/opal-say-implementation-prompt.md",
-    "file:C:/Users/patri/Downloads/opal-listen-implementation-prompt.md",
-    "file:C:/Users/patri/Downloads/opal-event-implementation-prompt.md",
-    "OPAL/UNIFIED_VISION/INTEGRATION_GAPS.md",
-    "OPAL/OPAL-PROMPTS/OPAL-README.md",
-    "OPAL - Open Pal.md",
     "OPAL/OPAL-PROMPTS",
     "OPAL/OPAL-API/1.7.1/opal_think 1.yaml",
     "OPAL/OPAL-API/1.7.1/opal_say 1.yaml",
-    "OPAL/OPAL-API/1.7.1/opal_look 1.yaml",
-    "OPAL/OPAL-API/1.7.1/opal_listen 1.yaml",
-    "OPAL/OPAL-API/1.7.1/opal_event 1.yaml",
-    "OPAL/OPAL-API/1.7.1/opal_listen.yaml",
-    "OPAL/OPAL-API/1.7.1/opal_event.yaml",
-    "OPAL/OPAL-API/1.7.1/shared/opal_kernel.yaml"
+    "OPAL/OPAL-API/1.7.1/opal_look 1.yaml"
   ]
 }

@@ -1,4 +1,4 @@
-# OPAL Composite Vision Architecture
+ OPAL Composite Vision Architecture
 
 **Status:** Design baseline / contract draft, not deployed  
 **Scope:** Unified `opal look` and independent YOLO, RF-DETR, RT-DETR, D-FINE adapters  

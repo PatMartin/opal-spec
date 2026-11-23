@@ -1,4 +1,4 @@
-# Composite Vision — Python Typer CLI Reference
+ Composite Vision — Python Typer CLI Reference
 
 **Status:** Proposed interface, not implemented  
 **Unified executable:** `opal look`  
